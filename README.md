@@ -20,6 +20,8 @@ Esse Cronômetro é um projeto que aborda de maneira simples, diversos conceitos
 - CSS
 - JavaScript
 
+## Visualizar projeto
+https://emersonbarros87.github.io/timer/
 
 
 ## Autor
